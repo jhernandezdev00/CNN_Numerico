@@ -1,6 +1,6 @@
 # Algoritmo Red Neuronal Convolucional para Deteccion de Numeros
 
-<a href="https://georgedx2.github.io/CNN_Numerico/"><button style="background-color: #1BB4AD; border: 1px; cursor:pointer; padding: 5px 20px; color: white; display:inline-block; text-align: center;"><img src="source\cerebro.png" style="vertical-align:middle"> ACCEDE A LA RED NEURONAL</button></a>
+<a href="https://georgedx2.github.io/CNN_Numerico/"><button style="background-color: #1BB4AD; border: 1px; cursor:pointer; padding: 5px 20px; color: white; display:inline-block; text-align: center;"><img style="vertical-align:middle"> ACCEDE A LA RED NEURONAL</button></a>
 
 <hr>
 <p>Las redes neuronales convolucionales son un tipo de red neuronal muy utilizada para la visión por ordenador y son utilizadas para trabajar con imágenes, vídeo y audio.
